@@ -7,6 +7,8 @@
 * Người thực hiện: [ Tiến Nguyễn ](https://github.com/tiennguyen98)
 
 ## Liên kết
+* [File ảnh export Front-end 1.5](https://github.com/tiennguyen98/draw.io_business/blob/master/images/frontend_1.5.png)
+* [File ảnh export Front-end 1.6](https://github.com/tiennguyen98/draw.io_business/blob/master/images/frontend_1.6.png)
 * [File PSD Front-end 1.5](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/simple%20pc/1671.psd)
 * [File PSD Front-end 1.6](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/simple%20mobile/159256-OUIMC7-479.psd)
 
